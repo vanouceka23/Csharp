@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kámen nůžky papír", "projekt\kámen nůžky papír.csproj", "{435E3A4C-5A23-4928-A323-6F81EC24CE4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "piškvorky", "piškvorky\piškvorky.csproj", "{4284B0CD-AD2E-4AAB-AFB6-D31E64CA851C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{435E3A4C-5A23-4928-A323-6F81EC24CE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{435E3A4C-5A23-4928-A323-6F81EC24CE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{435E3A4C-5A23-4928-A323-6F81EC24CE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4284B0CD-AD2E-4AAB-AFB6-D31E64CA851C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4284B0CD-AD2E-4AAB-AFB6-D31E64CA851C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4284B0CD-AD2E-4AAB-AFB6-D31E64CA851C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4284B0CD-AD2E-4AAB-AFB6-D31E64CA851C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
